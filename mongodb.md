@@ -20,7 +20,7 @@
 
 ## What is seed in MongoDB?
 
-- Seeding a database is a process in which an initial set of data is provided to a database when it is being installed.
+- Seeding a database is a process in which an initial set of data is provided to a database when it is being installed. Automating the process of building a database
 - Mongo databases need to be seeded to allow for:
    - Testing and Development - Saves time having to enter data manually.
    - Creates a consistent environment for development team.
